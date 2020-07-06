@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\bin\Debug\Controller.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\bin\Debug\Controller.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\bin\Debug\Model.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\bin\Debug\Model.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\obj\Debug\Controller.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\Controller\obj\Debug\Controller.pdb
