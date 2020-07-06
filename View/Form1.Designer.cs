@@ -153,9 +153,9 @@
             this.metroLabel1.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.metroLabel1.Location = new System.Drawing.Point(24, 343);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(102, 19);
+            this.metroLabel1.Size = new System.Drawing.Size(165, 19);
             this.metroLabel1.TabIndex = 5;
-            this.metroLabel1.Text = "Criado por Yuki";
+            this.metroLabel1.Text = "Criado por Edivaldo Jorge";
             // 
             // BtnLimpar
             // 
