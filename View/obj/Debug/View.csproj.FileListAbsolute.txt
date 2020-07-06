@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\View.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\View.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\View.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\Controller.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\MetroFramework.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\Model.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\Controller.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\bin\Debug\Model.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\UserProject\View\obj\Debug\View.pdb
